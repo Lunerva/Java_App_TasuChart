@@ -1,4 +1,5 @@
-#Tasu Chart
+# Tasu Chart
+Developed usinng java mysql and libraries for pdf generation and exportation
 ## INTRODUCTION
 Welcome to the User Manual for the Tasu Chart program. This program allows you to
 connect to a database, generate charts and export them as pdf.
